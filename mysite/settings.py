@@ -25,7 +25,7 @@ SECRET_KEY = 'x_s^gd=q@nu0lr@yd-1rexmujfyzo*aa($*+^mv2p%+e_tldjs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gammaliel.pythonanywhere.com']
 
 
 # Application definition
